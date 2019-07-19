@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Boss
+  - Player_Spawn
+  - Boss_Spawn
+  - ATB_Bar
+  - LIFE_Bar
+  - BOSS_Bar
   layers:
   - Default
   - TransparentFX
